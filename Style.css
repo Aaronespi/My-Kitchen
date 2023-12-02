@@ -1,0 +1,28 @@
+h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 100px;
+}
+
+body {
+    background-image: url(Images/Industrial\ Kitchen.jpeg);
+    background-position: center;
+}
+
+.main_text {
+    text-align: center;
+    font-size: 33px;
+    background-color: rgb(255, 255, 255, 0.5);
+    background-size: cover;
+}
+
+.buttons {
+    text-align: center;
+}
+
+button {
+    width: 150px;
+    height: 40px;
+    margin-right: 30px;
+    font-size: large;
+}
